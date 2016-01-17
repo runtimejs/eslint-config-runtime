@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-runtime",
+  "version": "0.0.0",
+  "description": "eslint runtime.js style config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:runtimejs/lint.git"
+  },
+  "author": "runtime.js project authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/runtimejs/lint/issues"
+  }
+}
