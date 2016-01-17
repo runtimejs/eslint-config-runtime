@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:runtimejs/lint.git"
+    "url": "git@github.com:runtimejs/eslint-config-runtime.git"
   },
   "author": "runtime.js project authors",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/runtimejs/lint/issues"
+    "url": "https://github.com/runtimejs/eslint-config-runtime/issues"
   }
 }
