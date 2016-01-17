@@ -34,6 +34,8 @@ module.exports = {
     'no-underscore-dangle': 0,
     'no-eq-null': 2,
     'space-before-function-paren': [2, "never"],
+    'no-spaced-func': 2,
+    'no-irregular-whitespace': 2,
     'space-after-keywords': [2, "always"],
     'space-before-blocks': [2, "always"],
     'spaced-comment': [2, "always", { exceptions: ["-"]}],
